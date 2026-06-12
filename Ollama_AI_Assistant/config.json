@@ -1,0 +1,15 @@
+{
+    "model": "qwen2.5:7b",
+    "voice_enabled": false,
+    "theme": "dark",
+    "ollama_host": "http://localhost:11434",
+    "max_history": 5,
+    "speech_rate": 150,
+    "speech_volume": 0.95,
+    "voice_gender": "female",
+    "flirty_mode": true,
+    "wake_word_enabled": true,
+    "wake_word": "hey bro",
+    "idle_timeout": 30,
+    "conversation_timeout": 60
+}
